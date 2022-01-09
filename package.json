@@ -1,5 +1,5 @@
 {
-  "name": "wordsphere",
+  "name": "@IlanAzoulay/wordsphere",
   "version": "1.0.0",
   "description": "a 3D rolling sphere of words following mouse movements",
   "main": "index.js",
@@ -26,6 +26,6 @@
   },
   "homepage": "https://github.com/IlanAzoulay/wordsphere#readme",
   "publishConfig": {
-		"registry":"https://npm.pkg.github.com"
+    "registry":"https://npm.pkg.github.com/@IlanAzoulay"
 	}
 }

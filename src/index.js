@@ -1,1 +1,0 @@
-export { default as WordSphere } from './components/WordSphere.vue'

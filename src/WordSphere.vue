@@ -1,5 +1,5 @@
 <template>
-    <div class="static">
+    <div style="position: static;">
         <div class="relative" id="sphere" @mouseenter="start_roll" @mousemove="update_roll" @mouseleave="end_roll"
             :style="`width: ${get_area_width()}rem; height: ${get_area_height()}rem;`">
             <SphereItem
@@ -23,10 +23,9 @@
 
 
 <script>
-import SphereItem from "@/components/SphereItem.vue";
+import SphereItem from "./SphereItem.vue";
 
 export default {
-	name: 'WordSphere',
     props: {
         items_list: {
             type: Array,

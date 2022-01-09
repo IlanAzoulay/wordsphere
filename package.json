@@ -1,0 +1,31 @@
+{
+  "name": "wordsphere",
+  "version": "1.0.0",
+  "description": "a 3D rolling sphere of words following mouse movements",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IlanAzoulay/wordsphere.git"
+  },
+  "keywords": [
+    "sphere",
+    "3D",
+    "words",
+    "tags",
+    "cloud",
+    "roll",
+    "mouse"
+  ],
+  "author": "Ilan Azoulay",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IlanAzoulay/wordsphere/issues"
+  },
+  "homepage": "https://github.com/IlanAzoulay/wordsphere#readme",
+  "publishConfig": {
+		"registry":"https://npm.pkg.github.com"
+	}
+}

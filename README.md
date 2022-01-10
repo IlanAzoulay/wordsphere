@@ -4,6 +4,11 @@ NPM package: a 3D rolling sphere of words following your mouse movements.
 Compatible with Vue JS.
 
 
+## PREVIEW
+
+<div align="center">
+	<img src="https://github.com/IlanAzoulay/wordsphere/blob/master/preview/wordsphere_preview.gif" alt="Preview GIF">
+</div>
 
 ## FEATURES
 Words of your chosing are spread around a fully customizable sphere.\

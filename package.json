@@ -1,6 +1,6 @@
 {
   "name": "wordsphere",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "description": "a 3D rolling sphere of words following mouse movements",
 
   "repository": {
@@ -22,9 +22,7 @@
     "url": "https://github.com/IlanAzoulay/wordsphere/issues"
   },
   "homepage": "https://github.com/IlanAzoulay/wordsphere#readme",
-  "publishConfig": {
-		"registry":"https://npm.pkg.github.com"
-	},
+
   "scripts": {
     "serve": "vue-cli-service serve dev/serve.js",
     "build": "cross-env NODE_ENV=production rollup --config build/rollup.config.js",

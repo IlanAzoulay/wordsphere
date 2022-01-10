@@ -87,7 +87,7 @@ Type: `Number`\
 Unit: `milliseconds`\
 IMPORTANT: change THIS prop to modify movement speed. The higher the interval, the faster
 
-7. #### extra\_padding
+#### 7. extra\_padding
 
 Type: `Number`\
 Unit: `REM`\

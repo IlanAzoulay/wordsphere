@@ -1,6 +1,6 @@
 {
   "name": "wordsphere",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "a 3D rolling sphere of words following mouse movements",
 
   "repository": {

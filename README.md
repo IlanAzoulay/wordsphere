@@ -90,7 +90,7 @@ Blur when a word is at the furthest point from user
 
 Type: `Number`\
 Unit: `milliseconds`\
-IMPORTANT: change THIS prop to modify movement speed. The higher the interval, the faster
+IMPORTANT: change THIS prop to modify movement speed. The lower the interval, the faster
 
 #### 7. extra\_padding
 

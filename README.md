@@ -105,7 +105,7 @@ Overall, if you want to specify all props, this would be the result when calling
 ```html
 <WordSphere 
 	:items_list="['Your', 'words', 'here', 'make', 'that', 'list', 'long', 'if', 'you', 'want']"
-	:radius="12
+	:radius="12"
 	:text_color="'#00FFEA'"
 	:font_size_max="2"
 	:blur_max="0.1"
